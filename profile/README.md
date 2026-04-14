@@ -1,6 +1,6 @@
 # Emotion Wheel — Your Interactive Guide to Understanding Your Feelings
 
-In a world where stress, overwhelm, and emotional confusion are part of everyday life, **[EmotionsWheel.app](https://emotionswheel.app)** gives you a moment to pause and truly check in with yourself. Built around the classic **Feelings Wheel**, this interactive tool helps you slow down, name what you're experiencing, and understand what your emotions are trying to tell you — without judgment.
+In a world where stress, overwhelm, and emotional confusion are part of everyday life, **[Emotion Wheel](https://emotionswheel.app/?utm_source=github)** gives you a moment to pause and truly check in with yourself. Built around the classic **Feelings Wheel**, this interactive tool helps you slow down, name what you're experiencing, and understand what your emotions are trying to tell you — without judgment.
 
 Unlike the static emotion wheel images scattered across the internet, our platform is a fully interactive experience. Click any emotion to instantly unlock its explanation, how it shows up in your mind and body, and gentle, practical ways to support yourself in the moment.
 
@@ -41,6 +41,6 @@ Unlike the static emotion wheel images scattered across the internet, our platfo
 
 ## Why EmotionsWheel.app Is Different
 
-Most emotion wheels online are just static images — with no context, no explanation, and no guidance on what to do next. **EmotionsWheel.app** is a fully interactive tool: spin the wheel, click any emotion, and instantly access meaningful insights and practical support.
+Most emotion wheels online are just static images — with no context, no explanation, and no guidance on what to do next. **[Feelings Wheel](https://emotionswheel.app/?utm_source=github)** is a fully interactive tool: spin the wheel, click any emotion, and instantly access meaningful insights and practical support.
 
 > Your state of mind shapes your choices and the way your day feels. Even a small step in understanding your emotions can lead to big changes over time. **EmotionsWheel.app** helps you take that step.
