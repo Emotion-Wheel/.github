@@ -43,4 +43,6 @@ Unlike the static emotion wheel images scattered across the internet, our platfo
 
 Most emotion wheels online are just static images — with no context, no explanation, and no guidance on what to do next. **[Feelings Wheel](https://emotionswheel.app/?utm_source=github)** is a fully interactive tool: spin the wheel, click any emotion, and instantly access meaningful insights and practical support.
 
+Also you can try our [Emotion Wheel Chrome extension](https://chromewebstore.google.com/detail/emotion-wheel/gifjbghcamddbcdnejaoeefglhdblecc)
+
 > Your state of mind shapes your choices and the way your day feels. Even a small step in understanding your emotions can lead to big changes over time. **EmotionsWheel.app** helps you take that step.
